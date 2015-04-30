@@ -1,0 +1,4 @@
+C:\Users\ravindrara\documents\visual studio 2010\Projects\DefectResolution\DefectResolution\bin\Debug\DefectResolution.exe
+C:\Users\ravindrara\documents\visual studio 2010\Projects\DefectResolution\DefectResolution\bin\Debug\DefectResolution.pdb
+C:\Users\ravindrara\documents\visual studio 2010\Projects\DefectResolution\DefectResolution\obj\x86\Debug\DefectResolution.exe
+C:\Users\ravindrara\documents\visual studio 2010\Projects\DefectResolution\DefectResolution\obj\x86\Debug\DefectResolution.pdb
